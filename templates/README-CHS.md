@@ -4,11 +4,11 @@
 
 这个仓库是[My Paper Title](https://arxiv.org/abs/2030.12345)的官方实现
 
-> 📋 可选内容：包括一个说明你的方法/主要结果的图标，bibtex 条目，演示链接，博客文章和教程。
+> 📋 可选内容：包括一个说明你的方法/主要结果的图表，bibtex 条目，演示链接，博客文章和教程。
 
-# 需求
+# 依赖环境
 
-安装需求
+安装依赖环境
 
 ```setup
 pip install -r requirements.txt
